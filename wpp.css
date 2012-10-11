@@ -1,0 +1,21 @@
+.mas_leido ul li {
+	list-style-type: none;
+	margin: 20px 0;
+	padding: 0;
+	padding-bottom: 20px;
+	width: 100%;
+	border-bottom: 1px solid #dedede;
+}
+
+.mas_leido ul li a {
+	font-size: 15px;
+	color: #252525;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.mas_leido ul li span {
+	padding-right: 5px;
+	font-size: 18px;
+	
+}
